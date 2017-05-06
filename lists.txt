@@ -1,0 +1,20 @@
+restaurant schedule
+marketing promotion
+
+		Promotion Budget - Easy to use drop down lists for marketing expenses and vendors  make budget preparation quick and simple.
+
+	Zip Code Response - You can define up to 6 different zip codes for tracking the areas that give you your best responses.
+
+	Redemption Items - User-defined redemption items such as gift certificates or coupons can be set up to track the cost for each discount.
+
+	Cost of Sales Tracking - The average cost of sales for each discount is applied to your other promotion costs to give you a true cost of the promotion.
+
+	Most Popular Redemption Day - Entering the responses for each day provides the data needed to track which day of the week promotion items are being redeemed the most.
+
+	Profit Tracking - As you record your ongoing expenses and responses, the profit of the promotion is automatically recalculated.
+
+	ROI - The P-T-D Summary includes a Return on Investment calculation that compares the cost of the promotion to the gross profit of the associated sales incurred as a result of the response to the promotion.
+
+	Drop-down Lists - The Drop Down List feature eliminates the need for typing repetitive data when preparing a new promotion. Use the one-time set-up worksheet to define your own unique drop-down lists for Expenses, Vendors, Redemptions and Zip Codes
+
+	Step-by-Step Instructions - Get started right away by using the step by step instructions for setting up and using the Marketing Promotion Tracking Template.
